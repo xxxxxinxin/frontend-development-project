@@ -4,7 +4,7 @@ Brief introduction and demo of some frontend development projects
 
  - Introduction:
 	 This is a webpage that allows users to search for and trade stocks using Finnhub API and display the results on the search page. 
-	 This project's client side is build with Angular and Bootstrap to make it reponsive and the server side is build with Express and NodeJS.
+	 This project's client side is build with **Angular** and **Bootstrap** to make it reponsive and the server side is build with **Express** and **NodeJS**.
  - Part of screen shot
 	 
  - Demo
