@@ -35,5 +35,8 @@ Brief introduction and demo of some frontend development projects
       https://drive.google.com/file/d/1ClYbaU1RzFjDaSq8mPO8NuA0_1y-_wvj/view?usp=sharing
    - Mobile: 
 	   https://drive.google.com/file/d/18UzViuDfz-BIl3sdMEUIVK4DlL6_-wWc/view?usp=sharing
-   - Android: 
+	   
+# 2. The Android App Version of the Stock Application
+  - Demo
+    - Android: 
 	   https://drive.google.com/file/d/1JVvptxdc4Rf7cAYoqtRbHD5cToM6se7H/view?usp=sharing
